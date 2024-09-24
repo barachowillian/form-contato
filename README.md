@@ -14,7 +14,7 @@ possivel adicionar o nome, telefone, e-mail, o tema da mensagem que sera encamin
  
 ### Resultado do projeto
 
-Veja a seguir a imagem a seguir onde é possivel ver o resultado final do projeto:
+Veja a seguir a imagem onde é possivel ver o resultado final do projeto:
 ![IMAGEM](img/projeto.png)
 
  
@@ -22,35 +22,32 @@ Veja a seguir a imagem a seguir onde é possivel ver o resultado final do projet
   A seguir será possivel visualizar os elementos usados na estrutura HTML do arquivo:
   
 
-* `Main`: 
-Veja a imagem a seguir:
- 
-![html](img/estrutura%20html%20usada.png)
- 
- 
- 
-* Head - O elemento <head> representa uma coleção de metadados para o documento. Metadados são, como o próprio nome diz, dados sobre os dados.
- 
-Veja a imagem a seguir:
- 
-![head](img/Head.png)
- 
- 
-* Body - <body> contém o corpo de um documento HTML, que é exibido pelo navegador em sua janela, ou seja, todo o conteúdo visível do site.
- 
-Veja a imagem a seguir:
- 
-![body](img/body.png)
- 
- 
-* Div - <div> *é um container genérico para conteúdo de fluxo, que de certa forma não representa nada. Ele pode ser utilizado para agrupar elementos para fins de estilos.
- 
-![div](img/div.png)
- 
- 
-* Form - <form>  indica que estamos iniciando um formulário, recebe como principais atributos method que recebe como valor o método http que esse formulário irá executar (get, post) e action que especifica para onde enviar os dados do formulário quando um formulário é enviado.
- 
-![form](img/form.png)
+* `Main`: Entende-se como conteúdo principal aquele relacionado diretamente com o tópico central da página ou com a funcionalidade central da aplicação.
+
+* `label` : Ela especifica qual o “rótulo” do input (a que se refere o input, como, por exemplo, envolvê-la em um texto “Nome completo”), e ajuda na experiência do usuário e usuária durante a utilização e preenchimento do formulário.
+
+
+* `form`: O elemento <form> é o elemento que formalmente define o formulário e os atributos que definem a maneira como esse formulário se comporta. 
+
+Veja a imagem a seguir onde sera possivel ver os elementos mencionados acima: 
+
+![html](img/img.htmllabel.png)
+
+* `input`: Componente que permite a entrada de dados textuais por parte do usuário.
+
+* `textarea`- é um campo de entrada de texto que permite que seu aplicativo aceite um valor de texto potencialmente longo do usuário.
+
+* `button`-representa um botão clicável.
+
+Veja a imagem a seguir onde é possivel visualizar os elementos mencionados acima:
+
+![html](img/imginputhtml.png)
+
+
+
+
+
+
  
  
 ### Propriedades CSS
