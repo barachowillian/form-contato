@@ -65,6 +65,10 @@ Veja a seguir a imagem onde é possivel ver o resultado final do projeto:
 ![IMAGEM](img/projeto.png)
  
 ## Tecnologia
+
+A seguir estará listado as tecnologias que foi utilizadas para este arquivo:
+
+
 * HTML5
 * CSS3
 * GIT
