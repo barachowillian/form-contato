@@ -58,6 +58,11 @@ Veja a imagem a seguir onde é possivel visualizar os elementos mencionados acim
  * ``height``: A propriedade "height" no HTML é utilizada para definir a altura de um elemento. 
 
  * `font-weight`: A propriedade font-weight é utilizada para aplicar ou remover negrito de um elemento de texto.
+
+A seguir sera possivel visualizar os elementos mencionados acima:
+
+ ![img](img/imgwidht.png)
+
  
 ### Resultado do projeto
 
